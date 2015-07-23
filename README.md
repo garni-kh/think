@@ -10,5 +10,5 @@ Percent of work witch we do and we must do it  , in end of day make you happy wh
 also it have file summing system .my be useful for people how want track some list like encounter. 
 "think" do not use database ,every think save in simple text file or  csv  file 
 i start this project when i think i have concentrate problem ,i can not  track my work i always think about every think and do nothing when i  do some work "think" about think  ,read some text  and try write my  think in paper  then i made this for write in this ,may be help  you concentrate problem and hope solve that and filing happy .
-
+it just every think do today ,i use some
 # installation 
