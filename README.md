@@ -4,8 +4,11 @@ think you have write like git commit
 the way is simple just python and i inspire from git ,
 
 $ con add -m "stability test server methot"
+
 $ con add -m "call @home "
+
 $ con search
+
 what stability 
 
 ## git about code , "think "about life think  
