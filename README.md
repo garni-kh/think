@@ -20,12 +20,17 @@ Percent of work witch we do and we must do it  , in end of day make you happy wh
 i start this project when i think i have concentrate problem ,i can not  track my work i always think about every think and do nothing when i  do  work ."think" about think  ,read some text  and try write my  think in paper  then i made this for write in this ,may be help  you concentrate problem and hope solve that and filing happy .
 
 # installation 
+
 you need :
+
 1.python3.3 deploy on you system 
+
 2.virtualvenv
+
 3.git
 
 installing steps:
+
 $ sudo easy_install virtualenv 
 
 or better
