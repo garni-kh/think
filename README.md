@@ -3,6 +3,11 @@ think you have write like git commit
 "think" python base ,console base  "todo list "application ,run in console in unix and linux or may be in windows ,it is for the people may be want write the think which want do it in past ,very simple 
 the way is simple just python and i inspire from git ,
 
+$ con add -m "stability test server methot"
+$ con add -m "call @home "
+$ con search
+what stability 
+
 ## git about code , "think "about life think  
 
 it  can manage 
