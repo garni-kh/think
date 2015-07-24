@@ -52,9 +52,9 @@ now you can test
 
 (venv)$ con add -m "hello works"
 
-you can vim think.csv 
+you can vim think.csv  if you in think directory 
 
-and see new line added with time 
+and see new line added with time and date 
 
 or just 
 
