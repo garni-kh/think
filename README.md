@@ -42,15 +42,15 @@ $ . venv/bin/activate
 
 now you can pip click
 
-$ pip install Click
+(venv)$ pip install Click
 
 after this you setup con command work in  ccommand line. 
 
-$ pip install --editable .
+(vevn)$ pip install --editable .
 
 now you can test 
 
-$ con add -m "hello works"
+(venv)$ con add -m "hello works"
 
 you can vim think.csv 
 
