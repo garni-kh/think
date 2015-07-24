@@ -18,7 +18,7 @@ def think():
 @think.command()
 @click.option('-m')
 def add(m):
-   """you can add every thiink to help remind and think latter"""
+   """you can add every thiink  with  -m to help remind and think latter  """
    contacts_info=[]
    if '@' in m:
        findc=re.search('(?<=@)\w+',m)
@@ -88,7 +88,7 @@ def linecounter():
 
 @think.command()
 def find():
-   """ list all think """
+   """ find a think """
    search=input('what')
    file=open('think.csv','r')
    a=file.readlines()
