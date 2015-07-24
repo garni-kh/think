@@ -98,9 +98,9 @@ def find():
           click.echo(click.style(i,fg='blue',bold=True))
           b.append(1)
    file.close()
-   print('totall search  count  is %s'%sum(b)) 
+   print('Total search  count  is %s'%sum(b)) 
    a=int(linecounter())
    percent=int(sum(b))/a*100
-   click.echo(click.style('the persent of this search in total is %s '%percent,fg='red',bold=True))
+   click.echo(click.style('the Percent of this search in total is %s  '%percent,fg='red',bold=True))
 
 cli = click.CommandCollection(sources=[cli,think])
