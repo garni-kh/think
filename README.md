@@ -79,5 +79,55 @@ Commands:
   
   lthink  list all think
 
+# working with think 
+
+after setup think , you can use con in command line until (venv) active .
+
+why i disided using con ,"con"  is from  concentrate  , and hope  this method of working help you  , when some think in midle of console come and distube your  oncentrate  just  fire up think  and write  it  ,and  try  think about that problem in past. think work with vim or any  text editing  aplication but of course vi or vim better in midle of console when add think or i say it consentrate abusing think just
+
+$ con add -m "do a good work every day "
+
+my first think i remeber in child hood (scout) ,
+
+$ vim think.csv 
+
+and you see added line .
+
+do a good work a day 2015-07-24 23:33:14 ['no'] --todo
+
+you can have report for youre  think list  with
+
+$  con lthink
+
+hello works 2015-07-24 21:55:57 ['no'] --todo
+
+do a good work a day 2015-07-24 23:33:14 ['no'] --todo
+
+or you can find some work let  try 
+
+$ con find
+what good
+do a good work a day 2015-07-24 23:33:14 ['no'] --todo
+
+totall search  count  is 1
+
+the persent of this search in total is 50
+
+con say you good is 1  think you have   and  50%   of you   con   problem   
+
+ok when done  a nice  work  then what ,just open up think .csv  with vim  and find  the line  and  you  can edit  --todo  to --do ,i do this now
+
+in end of the day you want know how much  development in works  
+
+$ con find
+
+what --do
+
+do a good work a day 2015-07-24 23:33:14 ['no'] --do
+
+totall search  count  is 1
+
+the persent of this search in total is 50.0 
+
 
 
