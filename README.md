@@ -30,13 +30,13 @@ $ sudo easy_install virtualenv
 
 or better
 
-$ pip install virtualenv 
+$ pip install virtualenv-3.3
 
-$ git clone git@github.com:garni-kh/think.git
+$ git clone https://github.com/garni-kh/think.git
 
 $ cd think
 
-$ virtualvenv venv
+$ virtualvenv-3.3 venv
 
 $ . venv/bin/activate 
 
