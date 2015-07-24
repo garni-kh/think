@@ -109,9 +109,9 @@ $ con find
 what good
 do a good work a day 2015-07-24 23:33:14 ['no'] --todo
 
-totall search  count  is 1
+total search  count  is 1
 
-the persent of this search in total is 50
+the Percent of this search in total is 50
 
 con say you good is 1  think you have   and  50%   of you   con   problem   
 
@@ -125,9 +125,9 @@ what --do
 
 do a good work a day 2015-07-24 23:33:14 ['no'] --do
 
-totall search  count  is 1
+total search  count  is 1
 
-the persent of this search in total is 50.0 
+the Percent of this search in total is 50.0 
 
 ok you can now  50%  work done  with find  
 
