@@ -131,6 +131,31 @@ the Percent of this search in total is 50.0
 
 ok you can now  50%  work done  with find  
 
+in contact.csv you can add your contact list just 
+
+$ vim contact.csv 
+
+add for example
+
+home,0218888222
+
+save it and close
+
+if you want contact information Appear in task list or think list  after adding  contact  name and  call  information  you can do this  
+
+$ con add -m "call @home" 
+
+$ con lthink
+
+hello works 2015-07-24 21:55:57 ['no'] --todo
+
+do a good work a day 2015-07-24 23:33:14 ['no'] --do
+
+call @home 2015-07-25 00:33:17 ['home,0218888222\n'] --todo
+
+you can see home contact information  in new  think list  ,  just pick up  phone   and call  
+
+
 #note
 
 this is my first git hub aplication ,very simple just python help for editing file ,i hope this concept help  pepole  which tired from task managment aplication and like old style ..   I'd be happy  if you help me to improve  this  concept .again i want to say my thank to click author armin  and  Guido van Rossum   for creation of python   .  
