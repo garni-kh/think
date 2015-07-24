@@ -129,5 +129,9 @@ totall search  count  is 1
 
 the persent of this search in total is 50.0 
 
+ok you can now  50%  work done  with find  
 
+#note
+
+this is my first git hub aplication ,very simple just python help for editing file ,i hope this concept help  pepole  which tired from task managment aplication and like old style ..   I'd be happy  if you help me to improve  this  concept .again i want to say my thank to click author armin  and  Guido van Rossum   for creation of python   .  
 
