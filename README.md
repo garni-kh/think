@@ -63,11 +63,15 @@ $ con
 Usage: con [OPTIONS] COMMAND [ARGS]...
 
 Options:
+
   --help  Show this message and exit.
 
 Commands:
+
   add     you can add every thiink to help remind and...
+  
   find    find a think
+  
   lthink  list all think
 
 
