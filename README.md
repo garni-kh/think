@@ -1,7 +1,7 @@
 # think
 think you have write like git commit 
 "think" python base ,console base  "todo list "application ,run in console in unix and linux or may be in windows ,it is for the people may be want write the think which want do it in past ,very simple 
-the way is simple just python and i inspire from git ,
+the way is simple just python and i inspire from git ,and my thank to  armin ronacher for click  python mudoles  which help me do it in command line .
 
 $ con add -m "stability test server methot"
 
