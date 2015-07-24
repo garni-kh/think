@@ -20,3 +20,44 @@ Percent of work witch we do and we must do it  , in end of day make you happy wh
 i start this project when i think i have concentrate problem ,i can not  track my work i always think about every think and do nothing when i  do  work ."think" about think  ,read some text  and try write my  think in paper  then i made this for write in this ,may be help  you concentrate problem and hope solve that and filing happy .
 
 # installation 
+you need :
+1.python3.3 deploy on you system 
+2.virtualvenv
+3.git
+
+installing steps:
+$ sudo easy_install virtualenv 
+
+or better
+
+$ pip install virtualenv 
+
+$ git clone git@github.com:garni-kh/think.git
+
+$ cd think
+
+$ virtualvenv venv
+
+$ . venv/bin/activate 
+
+now you can pip click
+
+$ pip install Click
+
+after this you setup con command work in  ccommand line. 
+
+$ pip install --editable .
+
+now you can test 
+
+$ con add -m "hello works"
+
+you can vim think.csv 
+
+and see new line added with time 
+
+or just 
+
+$ con
+
+
